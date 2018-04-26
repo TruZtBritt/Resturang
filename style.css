@@ -1,0 +1,21 @@
+.form {
+	padding: 10% 35%;
+	
+}
+.form-group
+{ 
+     background:  #ff6600;
+}
+
+.navbar 
+{
+	background:  #ff6600;
+}
+.jumbotron {
+background-image: url("katt.jpeg");
+background-size: cover; 
+}
+body {
+	background-image:url("re.jpg");
+	background-size: cover;
+}
